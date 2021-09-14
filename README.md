@@ -1,5 +1,7 @@
 <h1 align="center">Pokedex</h2>
 
+![pokemon-go-tl](https://user-images.githubusercontent.com/51414398/133182765-bea01123-f564-45b6-9680-981d8739fa6d.jpg)
+
 
 <p align="center">In this project, I created a Pokedex inspired by Pokémon using Python, Flask, HTML, CSS and PokeAPI to develop the project.</p>
 
