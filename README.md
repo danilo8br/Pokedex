@@ -21,4 +21,4 @@ Link PokeAPI: https://pokeapi.co/
 
 ## Exemple Interface
 
-<img width="230" alt="pk" src="https://user-images.githubusercontent.com/51414398/133183117-0c856dce-666c-40e9-a1f2-62dc97261a2c.PNG">
+<img width="500" alt="pk" src="https://user-images.githubusercontent.com/51414398/133183117-0c856dce-666c-40e9-a1f2-62dc97261a2c.PNG">
